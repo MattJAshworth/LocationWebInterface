@@ -1,0 +1,62 @@
+body {
+    background-image: url("bg.jpg");
+	background-size: 100%;
+	font-family: 'vaporwave';
+	color: grey;
+	font-size: 20px;
+}
+
+@font-face {
+	font-family: 'vaporwave';
+	src: url('vaporwave.ttf');	
+}
+
+a {
+	color: inherit;
+}
+
+a:visited {
+	color: inherit;
+}
+
+a:hover {
+	color: inherit;
+}
+
+a:active {
+	color: inherit;
+}
+
+a.button {
+	background-color: #6cffb9;
+	font-size: 24px;
+	padding: 14px 28px;
+	border-radius: 12px;
+	text-decoration: none;
+	color: inherit;
+	width: 800px;
+	display: block;
+	box-shadow: 10px 10px 5px #888888;
+}
+
+a.button:hover {
+	background-color: #53b89a;
+}
+
+.listBox {
+	color: inherit;
+	background: #6cffb9;
+	font-family: 'vaporwave';
+	font-size: 16px;
+}
+
+.textBox {
+	color: inherit;
+	background: #6cffb9;
+	font-family: 'vaporwave';
+	font-size: 16px;
+}
+
+.aspButton {
+	color: inherit;
+}
